@@ -1,1 +1,2 @@
-readme
+#!/bin/bash
+shell variables expansions
